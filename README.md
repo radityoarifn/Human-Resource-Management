@@ -14,7 +14,7 @@ Human Resource Management is an application designed to efficiently manage the r
 - Reporting and analytics for HR insights
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/human-resource-management.git`
+1. Clone the repository: `https://github.com/radityoarifn/Human-Resource-Management.git`
 2. Install the required dependencies: `npm install`
 3. Configure the database connection in the `config.js` file.
 4. Start the application: `npm start`

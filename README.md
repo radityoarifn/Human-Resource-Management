@@ -35,7 +35,7 @@ We welcome contributions to enhance the functionality and usability of Human Res
 5. Submit a pull request to merge your changes into the main repository.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or support, please contact us at raditssk@gmail.com
